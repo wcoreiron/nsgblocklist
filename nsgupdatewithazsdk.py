@@ -144,7 +144,7 @@ def flag_unicode(country_code):
     flag = ''.join(chr(0x1F1A5 + ord(c)) for c in country_code)
     return flag
 def main():
-    url = "https://raw.githubusercontent.com/yourusername/ip_blocklist1/main/ip_blocklist1"
+    url = "https://raw.githubusercontent.com/your_username/your_repo/main/ip_blocklist.txt"
     ip_ranges = get_ip_ranges(url)
     console.print(f"Number of IPs fetched out of 250: {len(ip_ranges)}", style="bold blue")
 
