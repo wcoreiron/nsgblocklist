@@ -12,7 +12,7 @@ from rich.table import Table
 console = Console()
 
 
-GITHUB_TOKEN = ""
+GITHUB_TOKEN = "your_githubtoken"
 GITHUB_USERNAME = "yourgithubusernamehere"
 GITHUB_REPO_NAME = "yourgithubreponamehere"
 GITHUB_FILE_PATH = "yourhithubfilepathere"
