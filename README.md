@@ -1,4 +1,4 @@
-# nsgblocklist
+Leveraging Azure SDK for Automated IP Analysis and Network Security Enhancements
 Description:
 This repository contains a Python script that automates the process of IP address analysis, blocklist updating, and Network Security Group management using Azure SDK.
 
